@@ -1,5 +1,20 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid be3a2376-e359-421d-aadd-cbde73488a33)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "PCB_LED ARRAY DRIVER")
+    (date "2023-06-15")
+    (company "PED - AHL")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
